@@ -1,0 +1,38 @@
+.myBG {
+	height: 100vh;
+	background: url(../assets/bg/fix2-01.png);
+	background-size: cover;
+}
+.intro {
+	height: 300px;
+	display: flex;
+	justify-content: end;
+	align-items: end;
+}
+.title {
+	font-size: 2rem;
+	font-weight: 800;
+	line-height: 1;
+	letter-spacing: 4px;
+	text-align: center;
+}
+
+.trending {
+	height: auto;
+	background-color: #232323;
+	color: white;
+}
+
+.movieImage {
+	height: auto;
+	margin: 5px;
+	padding: 5px;
+}
+
+.lastUpdate {
+	font-size: 1px;
+}
+
+.images {
+	height: 500px;
+}
